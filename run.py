@@ -141,8 +141,7 @@ def main():
     update_worksheet(stock_data, 'stock')
     get_stock_values(stock_data)
 
-print("Welcome to Love Sandwich Data Automation"
-      "Checking if the update on Heroku works!")
+print("Welcome to Love Sandwich Data Automation")
 main()
 
 
